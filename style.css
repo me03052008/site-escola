@@ -8,7 +8,7 @@ header{
 }
 .cabecalho {
     background-color: #424E61;
-    color: white;
+    color: aliceblue;
     display: flex;
     justify-content: space-around;
     align-items: center;
